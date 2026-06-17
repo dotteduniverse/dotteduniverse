@@ -46,9 +46,26 @@ These repositories showcase my work in building end-to-end AI systems.
 
 ## 📊 GitHub Stats
 
+<!-- Profile Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dotteduniverse&show_icons=true&theme=radical" alt="Veera's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotteduniverse&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dotteduniverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=dotteduniverse&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<!-- Top Languages & Trophies -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotteduniverse&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dotteduniverse&theme=radical&no-frame=true" alt="GitHub Trophies" width="48%" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dotteduniverse&theme=radical" alt="Activity Graph" width="100%" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dotteduniverse&color=dc143c&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
