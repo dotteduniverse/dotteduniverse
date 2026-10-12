@@ -77,3 +77,4 @@ I'm always open to discussing AI architecture, data strategy, or new opportuniti
 ---
 
 > 💡 *"Building the bridge between strategic vision and technical execution—from AI data strategy to production-grade systems."*
+.
