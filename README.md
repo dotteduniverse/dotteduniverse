@@ -26,19 +26,13 @@ Recent deep-dives and micro-projects built during my sabbatical to master next-g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dotteduniverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dotteduniverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=dotteduniverse&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotteduniverse&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=dotteduniverse&theme=radical&no-frame=true" alt="GitHub Trophies" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dotteduniverse&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dotteduniverse&theme=radical" alt="Activity Graph" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dotteduniverse&color=dc143c&style=flat-square" alt="Profile Views" />
 </p>
