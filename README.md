@@ -6,11 +6,22 @@
 
 **AI Solution Architect | Finance Systems & GenAI Specialist**
 
-I'm a technically adept architect and engineer with **18+ years** of experience designing and implementing scalable data systems, with the last 4 years deeply focused on productionizing **Generative AI** and **Agentic AI** solutions. I architect and build production-grade AI data platforms that power intelligent applications in regulated financial environments.
+I'm a technically adept architect and engineer with **19+ years** of experience designing and implementing scalable data systems, with the last 4 years deeply focused on productionizing **Generative AI** and **Agentic AI** solutions. I architect and build production-grade AI data platforms that power intelligent applications in regulated financial environments.
 
 My passion lies in bridging the gap between strategic vision and technical execution—from defining AI data strategy and governance to hands-on architecture and team mentorship.
 
 ---
+---
+
+## 🧪 Hands-On Labs & Drills
+
+Recent deep-dives and micro-projects built during my sabbatical to master next-generation Agentic frameworks.
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| [**Enterprise-RAG-API**](https://github.com/dotteduniverse/Enterprise-RAG-API) | Production-ready RAG pipeline featuring Hybrid Search (BM25 + Dense), Cross-Encoder Re-ranking, and a FastAPI endpoint with structured trace logging. | Python, ChromaDB, FastAPI, SentenceTransformers, Groq |
+| [**CrewAI-Multi-Agent-Lab**](https://github.com/dotteduniverse/CrewAI-Multi-Agent-Lab) | A multi-agent research crew with token optimization (Model Routing to a 20B model), step-by-step tracing, and YAML-driven agent configuration. | CrewAI, Groq, Python, YAML |
+| [**LangGraph-Python-Drills**](https://github.com/dotteduniverse/LangGraph-Python-Drills) | Micro-drills demonstrating state management, conditional edges, and human-in-the-loop interrupts using LangGraph. | Python, LangGraph |
 
 ## 📊 GitHub Stats
 
