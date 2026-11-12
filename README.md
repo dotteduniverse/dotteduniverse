@@ -11,17 +11,6 @@ I'm a technically adept architect and engineer with **19+ years** of experience 
 My passion lies in bridging the gap between strategic vision and technical execution—from defining AI data strategy and governance to hands-on architecture and team mentorship.
 
 ---
----
-
-## 🧪 Hands-On Labs & Drills
-
-Recent deep-dives and micro-projects built during my sabbatical to master next-generation Agentic frameworks.
-
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| [**Enterprise-RAG-API**](https://github.com/dotteduniverse/Enterprise-RAG-API) | Production-ready RAG pipeline featuring Hybrid Search (BM25 + Dense), Cross-Encoder Re-ranking, and a FastAPI endpoint with structured trace logging. | Python, ChromaDB, FastAPI, SentenceTransformers, Groq |
-| [**CrewAI-Multi-Agent-Lab**](https://github.com/dotteduniverse/CrewAI-Multi-Agent-Lab) | A multi-agent research crew with token optimization (Model Routing to a 20B model), step-by-step tracing, and YAML-driven agent configuration. | CrewAI, Groq, Python, YAML |
-| [**LangGraph-Python-Drills**](https://github.com/dotteduniverse/LangGraph-Python-Drills) | Micro-drills demonstrating state management, conditional edges, and human-in-the-loop interrupts using LangGraph. | Python, LangGraph |
 
 ## 📊 GitHub Stats
 
@@ -53,6 +42,17 @@ Recent deep-dives and micro-projects built during my sabbatical to master next-g
 | **Programming & APIs** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-32383E?style=for-the-badge&logo=sqlalchemy&logoColor=white" /> <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
 | **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> |
 | **Compliance & Methodologies** | <img src="https://img.shields.io/badge/GDPR-0B6E4F?style=for-the-badge&logo=gdpr&logoColor=white" /> <img src="https://img.shields.io/badge/SOC%202-003366?style=for-the-badge&logo=aicpa&logoColor=white" /> <img src="https://img.shields.io/badge/BCBS%20239-003399?style=for-the-badge&logo=bis&logoColor=white" /> <img src="https://img.shields.io/badge/Agile%20(Scrum)-009688?style=for-the-badge&logo=scrumalliance&logoColor=white" /> <img src="https://img.shields.io/badge/SAFe-0072B0?style=for-the-badge&logo=scaledagile&logoColor=white" /> <img src="https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=devsecops&logoColor=white" /> |
+---
+
+## 🧪 Hands-On Labs & Drills
+
+Recent deep-dives and micro-projects built during my sabbatical to master next-generation Agentic frameworks.
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| [**Enterprise-RAG-API**](https://github.com/dotteduniverse/Enterprise-RAG-API) | Production-ready RAG pipeline featuring Hybrid Search (BM25 + Dense), Cross-Encoder Re-ranking, and a FastAPI endpoint with structured trace logging. | Python, ChromaDB, FastAPI, SentenceTransformers, Groq |
+| [**CrewAI-Multi-Agent-Lab**](https://github.com/dotteduniverse/CrewAI-Multi-Agent-Lab) | A multi-agent research crew with token optimization (Model Routing to a 20B model), step-by-step tracing, and YAML-driven agent configuration. | CrewAI, Groq, Python, YAML |
+| [**LangGraph-Python-Drills**](https://github.com/dotteduniverse/LangGraph-Python-Drills) | Micro-drills demonstrating state management, conditional edges, and human-in-the-loop interrupts using LangGraph. | Python, LangGraph |
 
 ---
 
